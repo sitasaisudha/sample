@@ -1,0 +1,83 @@
+body{
+    background-image: url("images/home.jpg");
+    
+
+    
+    background-size: 100%;
+     /* opacity: 0.9; */
+ }
+
+.navbar li{
+    
+    color: white;
+    display: inline-block;
+    margin-left: 30px;
+    list-style: none;
+
+}
+.navbar li a{
+
+    color: white;
+    text-decoration: none;
+    
+    
+}
+.navbar li a:hover{
+    
+    text-decoration: underline;
+}
+.intu{
+    
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 600px;
+    margin-left: 60px;
+    
+    
+    
+}
+.outer{
+    
+    display: inline-block;
+
+
+    
+}
+.content{
+    
+
+    color: whitesmoke;
+    padding: 25%;
+}
+ h1{
+    
+    text-align: center;
+    margin-top: 300px;
+    font-size: 50px;
+    color: whitesmoke;
+}
+p{
+
+    text-align: center;
+    color: white;
+}
+.but1{
+    margin-left: 550px;
+}
+button{
+    
+    margin-left: 50px;
+    color:white;
+    border-radius: 17px;
+    height: 40px;
+    width: 160px;
+    border-color: aqua;
+    background-color: transparent;
+    
+
+}
+button:hover{
+
+    background-color: aqua;
+
+}

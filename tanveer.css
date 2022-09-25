@@ -1,0 +1,68 @@
+body{
+    margin-left: 30px;
+}
+.head{
+    font-size: xx-large;
+    color: darkblue;  
+}
+.nav{
+    display: flex;
+    column-gap: 80px;
+    flex-wrap:  wrap;
+    flex: 0 0 33.333333333%;
+}
+.zero span{
+    color: blue;
+}
+.one::before{
+    content: '📞';
+}
+.two::before{
+    content:url(images/location.jpg) ;
+}
+.three::before{
+    content: url(images/ld.jpg);
+}
+.head{
+    font-size: 40px;
+}
+.strength{
+    display:inline-flex;
+   
+}
+
+#but{
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+}
+#but2{
+    border-radius: 5px;
+}
+hr{
+    border-top: 4px solid orange;
+    position: relative;
+    bottom: 10px;
+}
+.a2{
+    position: absolute;
+    left: 400px;
+}
+.loc{
+    margin-left: 100px;
+}
+.loc::before{
+    content:url(images/location.jpg) ;
+}
+ul{
+    list-style: "->:";
+}
+li b{
+    color: blue;
+}
+.edu{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.item2{
+    color: darkblue;
+}

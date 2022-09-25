@@ -1,0 +1,18 @@
+.upper{
+    margin-left: 300px;
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+}
+.low{
+    margin-left: 500px;
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+}
+.below{
+    margin-left: 700px;
+    background-color: brown;
+    height: 200px;
+    width: 200px;
+}

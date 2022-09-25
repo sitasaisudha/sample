@@ -1,0 +1,29 @@
+.image{
+    display: flex;
+    justify-content: space-between;
+}
+.class2{
+    display: grid;
+    grid-template-columns: 1000px auto;
+}
+   
+.item2{
+   border-top: 1px solid black;
+}
+.head{
+    color: crimson;
+}
+#dad{
+    border-right: 1px solid black;
+    
+}
+.date{
+    text-align: right;
+    margin-right: 50px;
+}
+.list{
+    align-items: center;
+}
+.edu{
+    margin-left: 60px;
+}
